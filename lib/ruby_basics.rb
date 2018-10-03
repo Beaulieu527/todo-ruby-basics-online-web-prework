@@ -2,8 +2,8 @@ def division(num1, num2)
  puts 20 / 2
 end
 
-def assign_variable(value)
-  puts 100
+def assign_variable(name)
+  puts "#{name}"
 end
 
 def argue(n)
