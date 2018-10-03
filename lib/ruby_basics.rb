@@ -1,5 +1,5 @@
 def division(num1, num2)
- puts 20 / 2
+ puts division(20,2)
 end
 
 def assign_variable(name)
@@ -7,7 +7,7 @@ def assign_variable(name)
 end
 
 def argue(n)
-  
+
 end
 
 def greeting(n,y)
