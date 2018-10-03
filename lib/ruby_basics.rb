@@ -13,14 +13,14 @@ end
 def greeting(n,y)
 end
 
-def return_a_value
-
+def return_a_value(y)
+  puts return_a_value(Nice)
 end
 
 def last_evaluated_value
 
 end
 
-def pizza_party
+def pizza_party("puts cheese")
 
 end
